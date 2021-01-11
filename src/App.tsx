@@ -10,7 +10,6 @@ const App: React.FC = () => (
       <Routes />
     </BrowserRouter>
     <GlobalStyle />
-    lalala
   </>
 );
 
